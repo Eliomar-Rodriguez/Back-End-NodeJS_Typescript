@@ -1,0 +1,19 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "description": "Back-End modularizado utilizando NodeJS con Typescript para que sea un back-end mas robusto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliomar-Rodriguez/Back-End-NodeJS_Typescript.git"
+  },
+  "author": "Eliomar-Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eliomar-Rodriguez/Back-End-NodeJS_Typescript/issues"
+  },
+  "homepage": "https://github.com/Eliomar-Rodriguez/Back-End-NodeJS_Typescript#readme"
+}
