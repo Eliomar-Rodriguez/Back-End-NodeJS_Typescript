@@ -1,4 +1,7 @@
-instalacion de herramientas a utilizar (dependencias)
+Se debe tener instalado nodejs y de preferencia visual studio code
+
+
+Instalacion de herramientas a utilizar (dependencias)
 
 Dependencias de produccion
 
@@ -9,4 +12,11 @@ Dependencias de produccion
 - npm i express --save // para conexion y uso de puertos
 
 Dependencias de desarrollo
-npm i -D @types/node @types/express @types/mongoose
+
+- npm i -D @types/node @types/express @types/mongoose
+
+Se debe tener instalado mongodb y mongo compass
+
+Promesas son callbacks mejorados
+.then
+.catch
