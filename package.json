@@ -1,5 +1,5 @@
 {
-  "name": "4",
+  "name": "taller_back-end_nodejstypescript",
   "version": "1.0.0",
   "description": "Back-End modularizado utilizando NodeJS con Typescript para que sea un back-end mas robusto",
   "main": "index.js",
@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Eliomar-Rodriguez/Back-End-NodeJS_Typescript.git"
   },
-  "author": "Eliomar-Rodriguez",
+  "keywords": [
+    "BackEnd",
+    "Back-End",
+    "NodeJS",
+    "Typescript",
+    "Modularizado"
+  ],
+  "author": "Eliomar Antonio Rodriguez Arguedas",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Eliomar-Rodriguez/Back-End-NodeJS_Typescript/issues"
