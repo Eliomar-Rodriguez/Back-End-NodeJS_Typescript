@@ -1,0 +1,12 @@
+instalacion de herramientas a utilizar (dependencias)
+
+Dependencias de produccion
+
+- instalar Typescript npm install -g typescript
+- npm i -g nodemon // esta herramienta es para que los cambios realizados se refresquen en el servidor (cambios en caliente)
+- npm i body-parser --save // para creacion de parametros a enviar a la base de datos
+- npm i mongoose --save //para estar a la escucha de puertos, trabajar en un ambiente asincrono
+- npm i express --save // para conexion y uso de puertos
+
+Dependencias de desarrollo
+npm i -D @types/node @types/express @types/mongoose
